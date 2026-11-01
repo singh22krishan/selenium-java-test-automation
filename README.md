@@ -1,5 +1,7 @@
 # Selenium Java Test Automation
 
+[![Java UI Tests](https://github.com/singh22krishan/selenium-java-test-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/singh22krishan/selenium-java-test-automation/actions/workflows/tests.yml)
+
 A modern UI test automation portfolio project built with **Java, Selenium WebDriver, JUnit, Maven, and GitHub Actions**.
 
 ## Project Background
